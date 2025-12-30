@@ -1,0 +1,161 @@
+1:"$Sreact.fragment"
+2:I[69243,["3464","static/chunks/3464-64287ebcba391c12.js","4277","static/chunks/4277-4a09b9a0584c64a9.js","6874","static/chunks/6874-363dd62ad1f58aab.js","4109","static/chunks/4109-014b6a9cfae26179.js","9156","static/chunks/9156-69680bf49ae4dfa0.js","1886","static/chunks/1886-7394f95acf452ccd.js","7177","static/chunks/app/layout-a1756a674e95e254.js"],""]
+3:I[46956,["3464","static/chunks/3464-64287ebcba391c12.js","4277","static/chunks/4277-4a09b9a0584c64a9.js","6874","static/chunks/6874-363dd62ad1f58aab.js","4109","static/chunks/4109-014b6a9cfae26179.js","9156","static/chunks/9156-69680bf49ae4dfa0.js","1886","static/chunks/1886-7394f95acf452ccd.js","7177","static/chunks/app/layout-a1756a674e95e254.js"],"default"]
+4:I[64166,["3464","static/chunks/3464-64287ebcba391c12.js","4277","static/chunks/4277-4a09b9a0584c64a9.js","6874","static/chunks/6874-363dd62ad1f58aab.js","4109","static/chunks/4109-014b6a9cfae26179.js","9156","static/chunks/9156-69680bf49ae4dfa0.js","1886","static/chunks/1886-7394f95acf452ccd.js","7177","static/chunks/app/layout-a1756a674e95e254.js"],"default"]
+5:I[87555,[],""]
+6:I[31295,[],""]
+8:I[59665,[],"OutletBoundary"]
+b:I[74911,[],"AsyncMetadataOutlet"]
+d:I[59665,[],"ViewportBoundary"]
+f:I[59665,[],"MetadataBoundary"]
+11:I[26614,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/40ea34a090ba78bf.css","style"]
+7:T2b2a,온리원뮤직 (이하 "회사" 함)는 통신비밀보호법, 전기통신사업법, 정보통신망 이용촉진 및 정보보호 등에 관한 법률 등 정보통신서비스제공자가 준수하여야 할 관련 법령상의 개인정보보호 규정을 준수하며, 관련 법령에 의거한 개인정보취급방침을 정하여 이용자 권익 보호에 최선을 다하고 있습니다.
+
+온리원뮤직의 개인정보취급방침은 다음과 같은 내용을 담고 있습니다.
+1. 수집하는 개인정보의 항목 및 수집방법
+2. 개인정보의 수집 및 이용목적
+3. 개인정보 공유 및 제공
+4. 개인정보의 취급위탁
+5. 개인정보의 보유 및 이용기간
+6. 개인정보 파기절차 및 방법
+7. 이용자 및 법정대리인의 권리와 그 행사방법
+8. 개인정보 자동 수집 장치의 설치/운영 및 거부에 관한 사항
+9. 개인정보의 기술적/관리적 보호 대책
+10. 개인정보관리책임자
+11. 기타
+12. 고지의 의무
+
+1. 수집하는 개인정보의 항목 및 수집방법
+
+가. 수집하는 개인정보의 항목
+
+첫째, 회사는 각종 서비스의 제공을 위해 아래와 같은 개인정보를 이용자의 동의를 받은 후 수집하고 있습니다.
+-일반 개인정보 수집항목 : 성명, 이메일
+
+둘째, 서비스 이용과정이나 사업처리 과정에서 아래와 같은 정보들이 자동으로 생성되어 수집될 수 있습니다.
+- IP Address, 쿠키, 방문 일시
+
+나. 개인정보 수집방법
+
+회사는 다음과 같은 방법으로 개인정보를 수집합니다.
+- 홈페이지, 서면양식, 팩스, 전화, 상담 게시판, 이메일 주소, 이벤트 응모, 배송요청
+- 회사에서 제공하는 서비스 관련 협력회사로부터의 제공
+- 정보 수집 툴을 통한 생성정보
+
+2. 개인정보의 수집 및 이용목적
+
+가. 신규 서비스 및 마케팅.광고에의 활용
+-신규 서비스 개발 및 맞춤 서비스 제공, 서비스의 유효성 확인, 이벤트 및 광고성 정보 제공 및 참여기회 제공, 접속빈도 파악, 회원의 서비스이용에 대한 통계
+
+3. 개인정보의 공유 및 제공
+
+가. 회사는 이용자들의 개인정보를 " 2. 개인정보의 수집목적 및 이용목적"에서 고지한 범위 내에서 사용하며, 이용자의 사전 동의 없이는 동 범위를 초과하여 이용하거나 원칙적으로 이용자의 개인정보를 외부에 공개하지 않습니다. 다만, 아래의 경우에는 예외로 합니다.
+- 이용자들이 사전에 공개에 동의한 경우
+- 법령의 규정에 의거하거나, 수사 목적으로 법령에 정해진 절차와 방법에 따라 수사기관의 요구가 있는 경우
+
+4. 개인정보의 취급위탁
+
+가. 회사는 원활하고 향상된 서비스를 위하여 개인정보 취급을 위탁할 수 있습니다.
+나. 회사는 개인정보 위탁 제공에 동의한 회원에 한하여 다음의 외부 전문업체에 위탁하여 운영하고 있으며, 위탁 계약 시 개인정보가 안전하게 관리될 수 있도록 관리감독하며 필요한 사항을 규정해 관련 법규를 준수하고 있습니다.
+
+5. 개인정보의 보유 및 이용기간
+
+이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다.
+단, 다음의 정보에 대해서는 아래의 이유로 명시한 기간 동안 보존합니다.
+
+가. 관련법령에 의한 정보보유 사유
+상법, 전자상거래 등에서의 소비자보호에 관한 법률 등 관계법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 관계법령에서 정한 일정한 기간 동안 회원정보 및 거래정보(고액당첨정보 포함)를 보관합니다.
+이 경우 회사는 보관하는 정보를 그 보관의 목적으로만 이용하며 보존기간은 아래와 같습니다.
+
+- 고객의 불만 또는 분쟁처리에 관한 기록
+보존 이유 : 고객보호에 관한 법률
+보존 기간 : 3년
+
+- 본인확인에 관한 기록
+보존 이유 : 정보통신망 이용촉진 및 정보보호 등에 관한 법률
+보존 기간 : 6개월
+
+- 방문에 관한 기록
+보존 이유 : 통신비밀보호법
+보존 기간 : 3개월
+
+- 거래정보(고액당첨정보 포함)에 대한 기록
+보존 이유 : 복권 및 복권기금법
+보존 기간 : 5년
+
+6. 개인정보 파기절차 및 방법
+
+이용자의 개인정보는 원칙적으로 개인정보의 수집 및 이용목적이 달성되면 지체 없이 파기합니다.
+회사의 개인정보 파기절차 및 방법은 다음과 같습니다.
+
+가. 파기절차
+- 이용자가 회원가입 등을 위해 입력한 정보는 목적이 달성된 후 내부 방침 및 기타 관련 법령에 의한 정보보호 사유에 따라(보유 및 이용기간 참조)일정 기간 저장된 후 파기됩니다.
+- 동 개인정보는 법률에 의한 경우가 아니고서는 보유되는 이외의 다른 목적으로 이용되지 않습니다.
+
+나. 파기방법
+- 종이에 출력된 개인정보는 문서파쇄기로 파쇄하거나 소각을 통하여 파기합니다.
+- 전자적 파일 형태로 저장된 개인정보는 기록을 재생할 수 없는 기술적 방법을 사용하여 삭제합니다.
+
+7. 이용자 및 법정대리인의 권리와 그 행사방법
+
+가. 이용자 및 법정 대리인은 언제든지 나눔로또 사이트의 "정보수정"을 통하여 회원님의 개인정보를 열람, 정정 처리하실 수 있으며, 당사의 개인정보관리 책임자에게 전자우편 또는 서면으로 요청하신 경우 열람, 정정, 삭제처리 해 드리겠습니다. 단, 회원 아이디(ID), 성명, 예외적으로 허용 될 수 있습니다.
+
+기타 법률에 따라 정정 또는 삭제가 금지되거나 제한되어 있는 경우에는 해당 처리가 제한될 수 있습니다.
+또한 개인정보 오류에 대한 정정을 요청한 경우에는 다른 법률에 따라 개인정보의 제공을 요청받는 경우가 아닌 한 정정을 완료하기 전까지 당해 개인정보를 이용 또는 제공하지 않습니다. 만약 잘못된 개인정보를 이미 제공한 경우에는 정정 처리 결과를 제 3자에게 통지하여 정정이 이루어지도록 하겠습니다.
+
+나. 이용자 및 법정 대리인은 언제든지 나눔로또 사이트의 개인정보에 대하여 처리의 정지를 요구 할 수 있습니다. 다만 아래의 경우에 해당하는 경우 처리정지 요구를 거절할 수 있습니다.
+
+1) 법률에 특별한 규정이 있거나 법령상 의무를 준수하기 위하여 불가피한 경우
+2) 다른 사람의 생명 신체를 해할 우려가 있거나 다른 사람의 재산과 그 밖의 이익을 부당하게 침해할 우려가 있는 경우
+
+3) 개인정보를 처리하지 아니하면 정보주체와 약정한 서비스를 제공하지 못하는 등 계약의 이행이 곤란한 경우로서 정보주체가 그 계약의 해지 의사를 명확하게 밝히지 아니한 경우
+다. 회원가입 등을 통해 개인정보의 수집 이용 제공에 대해 회원님께서 동의하신 내용을 언제든지 철회할 수 있습니다. 동의철회는 회사 사이트 내 "회원 탈퇴 신청"을 클릭하거나 개인정보관리책임자에게 전자우편 또는 서면 등으로 연락하시면 지체 없이 개인정보의 삭제 등 필요한 조치를 하겠습니다.
+다만 법률 또는 약관의 규정에 따라 회사가 회원님의 개인정보를 보존하여야 하는 경우에는 해당 처리가 제한될 수 있습니다. 이 경우 회원님은 본인 식별을 위하여 반드시 회원아이디(ID)와 본인확인 식별정보를 밝히셔야 하며, 철회로 인해 서비스에 다소 제약이 있거나 일부 서비스를 이용하지 못하실 수 있습니다
+
+8. 개인정보의 기술적/관리적 보호 대책
+
+회사는 이용자들의 개인정보를 취급함에 있어 개인정보가 분실, 도난, 누출, 변조 또는 훼손되지 않도록 안전성 확보를 위하여 다음과 같은 기술적/관리적 대책을 강구하고 있습니다.
+
+가. 패스워드 암호화
+회사는 해킹이나 컴퓨터 바이러스 등에 의해 회원의 개인정보가 유출되거나 훼손되는 것을 막기 위해 최선을 다하고 있습니다.
+
+나. 해킹 등에 대비한 대책
+회사는 해킹이나 컴퓨터 바이러스 등에 의해 회원의 개인정보가 유출되거나 훼손되는 것을 막기 위해 최선을 다하고 있습니다.
+개인정보의 훼손에 대비해서 자료를 수시로 백업하고 있고, 최신 백신프로그램을 이용하여 이용자들의 개인정보나 자료가 누출되거나 손상되지 않도록 방지하고 있으며, 암호화통신 등을 통하여 네트워크상에서 개인정보를 안전하게 전송할 수 있도록 하고 있습니다.
+그리고 침입차단시스템을 이용하여 외부로부터의 접근을 통제하고 있으며, 기타 시스템적으로 보안성을 확보하기 위한 가능한 모든 기술적 장치를 갖추려 노력하고 있습니다.
+
+다. 개인정보 취급 직원의 최소화 및 교육
+회사의 개인정보관련 취급 직원을 최소화하고 있고 업무용 PC에서는 외부 인터넷 서비스를 접속할 수 없도록 차단하고 있습니다. 또한 개인정보 처리 시스템에 대해 비밀번호를 부여하여 정기적으로 갱신하고 있으며, 담당자에 대한 수시 교육을 통하여 나눔로또 개인정보취급방침의 준수를 항상 강조하고 있습니다.
+
+라. 개인정보보호전담기구의 운영
+사내 개인정보보호조직 등을 통하여 회사는 개인정보취급방침의 이행사항 및 담당자의 준수여부를 확인하여 문제가 발견될 경우 즉시 수정하고 바로 잡을 수 있도록 노력하고 있습니다.
+단, 이용자 본인의 부주의나 인터넷상의 문제로 개인정보가 유출되어 발생한 문제에 대해 회사는 일체의 책임을 지지 않습니다.
+
+9. 개인정보관리책임자
+
+귀하께서는 회사의 서비스를 이용하시며 발생하는 모든 개인정보보호 관련 민원을 개인정보관리책임자 혹은 담당부서로 신고하실 수 있습니다.
+회사는 이용자들의 신고사항에 대해 신속하게 충분한 답변을 드릴 것입니다.
+개인정보 관리책임자 개인정보 관리담당자
+사이트 하단 표기
+
+10. 기타
+온리원뮤직에 링크되어 있는 웹사이트들이 개인정보를 수집하는 행위에 대해서는 본 "개인정보취급방침"이 적용되지 않음을 알려 드립니다.
+
+11. 고지의 의무
+현 개인정보취급방침 내용 추가, 삭제 및 수정이 있을 시에는 개정 최소 7일전부터 홈페이지의
+'공지사항'을 통해 고지할 것입니다.
+
+- 공고일자 : 2019년 07월 01일
+- 시행일자 : 2019년 07월 01일
+0:{"P":null,"b":"MoOzhNey9h9Cvxa3zAkNn","p":"","c":["","membership","privacy",""],"i":false,"f":[[["",{"children":["membership",{"children":["privacy",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/40ea34a090ba78bf.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"apple-touch-icon","sizes":"57x57","href":"/images/_common/favicon/apple-icon-57x57.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"60x60","href":"/images/_common/favicon/apple-icon-60x60.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"72x72","href":"/images/_common/favicon/apple-icon-72x72.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"76x76","href":"/images/_common/favicon/apple-icon-76x76.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"114x114","href":"/images/_common/favicon/apple-icon-114x114.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"120x120","href":"/images/_common/favicon/apple-icon-120x120.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"144x144","href":"/images/_common/favicon/apple-icon-144x144.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"152x152","href":"/images/_common/favicon/apple-icon-152x152.png"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/images/_common/favicon/apple-icon-180x180.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"192x192","href":"/images/_common/favicon/android-icon-192x192.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"32x32","href":"/images/_common/favicon/favicon-32x32.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"96x96","href":"/images/_common/favicon/favicon-96x96.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"16x16","href":"/images/_common/favicon/favicon-16x16.png"}]]}],["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased","suppressHydrationWarning":true,"children":[["$","$L2",null,{"src":"https://www.googletagmanager.com/gtag/js?id=G-76BGSQNVWP","strategy":"afterInteractive"}],["$","$L2",null,{"id":"google-analytics","strategy":"afterInteractive","children":"\n            window.dataLayer = window.dataLayer || [];\n            function gtag(){dataLayer.push(arguments);}\n            gtag('js', new Date());\n            gtag('config', 'G-76BGSQNVWP');\n          "}],["$","$L3",null,{}],["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]]}]]}],{"children":["membership",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["privacy",["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"max-w-[1200px] mx-auto px-4 py-8","children":[["$","div",null,{"className":"relative w-full bg-[url('/copyrightSearch.png')] bg-center bg-cover bg-no-repeat flex flex-col justify-center mb-8 rounded-[24px] overflow-hidden p-10 pt-10 pb-4","children":["$","div",null,{"className":"flex flex-col items-center gap-2","children":[["$","h1",null,{"className":"text-white text-shadow-[0_1px_8px_#2228] m-0 text-[2rem] font-bold","children":"개인정보취급방침"}],["$","div",null,{"className":"text-white text-shadow-[0_1px_8px_#2228] text-center text-sm","children":"시행일: 2019년 07월 01일"}]]}]}],["$","div",null,{"className":"whitespace-pre-line text-gray-800 text-base leading-relaxed bg-gray-50 rounded-lg p-8 shadow-sm","children":"$7"}]]}],null,["$","$L8",null,{"children":["$L9","$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","iVozCQ05UgLYeqHWa0aJjv",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lf",null,{"children":"$L10"}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[74911,[],"AsyncMetadata"]
+10:["$","div",null,{"hidden":true,"children":["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]}]
+a:null
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+9:null
+c:{"metadata":[["$","title","0",{"children":"(주)온리원뮤직 - 음악 저작권 관리 및 유통 서비스"}],["$","meta","1",{"name":"description","content":"(주)온리원뮤직은 음악 저작권 관리, 라이선스 신청, 디지털 앨범 유통, 정산 서비스를 제공하는 전문 회사입니다."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","meta","3",{"name":"googlebot","content":"index, follow, max-video-preview:large, max-image-preview:large, max-snippet:-1"}],["$","meta","4",{"property":"og:title","content":"(주)온리원뮤직 - 음악 저작권 관리 및 유통 서비스"}],["$","meta","5",{"property":"og:description","content":"(주)온리원뮤직은 음악 저작권 관리, 라이선스 신청, 디지털 앨범 유통, 정산 서비스를 제공하는 전문 회사입니다."}],["$","meta","6",{"property":"og:url","content":"https://onlyonemusic.com/"}],["$","meta","7",{"property":"og:site_name","content":"온리원뮤직"}],["$","meta","8",{"property":"og:locale","content":"ko_KR"}],["$","meta","9",{"property":"og:image","content":"https://onlyonemusic.com/images/_common/SNS_OG-ONLYONEMUSIC.png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"(주)온리원뮤직"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"(주)온리원뮤직 - 음악 저작권 관리 및 유통 서비스"}],["$","meta","16",{"name":"twitter:description","content":"(주)온리원뮤직은 음악 저작권 관리, 라이선스 신청, 디지털 앨범 유통, 정산 서비스를 제공하는 전문 회사입니다."}],["$","meta","17",{"name":"twitter:image","content":"https://onlyonemusic.com/images/_common/SNS_OG-ONLYONEMUSIC.png"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","19",{"rel":"icon","href":"/images/_common/favicon/favicon-16x16.png","sizes":"16x16","type":"image/png"}],["$","link","20",{"rel":"icon","href":"/images/_common/favicon/favicon-32x32.png","sizes":"32x32","type":"image/png"}],["$","link","21",{"rel":"icon","href":"/images/_common/favicon/favicon-96x96.png","sizes":"96x96","type":"image/png"}],["$","link","22",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-57x57.png","sizes":"57x57","type":"image/png"}],["$","link","23",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-60x60.png","sizes":"60x60","type":"image/png"}],["$","link","24",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-72x72.png","sizes":"72x72","type":"image/png"}],["$","link","25",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-76x76.png","sizes":"76x76","type":"image/png"}],["$","link","26",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-114x114.png","sizes":"114x114","type":"image/png"}],["$","link","27",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-120x120.png","sizes":"120x120","type":"image/png"}],["$","link","28",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-144x144.png","sizes":"144x144","type":"image/png"}],["$","link","29",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-152x152.png","sizes":"152x152","type":"image/png"}],["$","link","30",{"rel":"apple-touch-icon","href":"/images/_common/favicon/apple-icon-180x180.png","sizes":"180x180","type":"image/png"}],["$","link","31",{"rel":"icon","href":"/images/_common/favicon/android-icon-192x192.png","sizes":"192x192","type":"image/png"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$c:metadata","error":null,"digest":"$undefined"}
